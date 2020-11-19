@@ -3,8 +3,8 @@
 -- x must be a float type
 
 local config = {
-    pedFrequency = 1.0,
-    trafficFrequency = 1.0,
+    pedFrequency = 0.0,
+    trafficFrequency = 0.0,
 }
 
 
